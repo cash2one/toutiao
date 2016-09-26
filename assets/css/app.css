@@ -1,0 +1,20 @@
+/*.img{
+	margin-left: -1rem;
+	padding-right: 0;
+}
+.txt{
+	padding: 0;
+	/*padding-right: 6px;*/
+/*}**/
+.txt p{
+	margin: 6px 0;
+	font-size: 1rem;
+}
+.title{
+	margin-top: 6px;
+	margin-bottom: 0;
+}
+.realtype{
+	float: right;
+	padding-right: 10px;
+}
