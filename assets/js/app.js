@@ -7,10 +7,6 @@ function touAjax(type, key, url) {
 			'type': type, //类型
 			'key': key //密钥
 		},
-		headers:{
-			'Access-Control-Allow-Origin': '*'
-
-		},
 		success: function(data) {
 			//			alert('a');
 			//转行成对象
